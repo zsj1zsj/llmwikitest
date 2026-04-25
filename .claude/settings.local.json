@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(obsidian folders *)",
+      "Bash(obsidian files *)",
+      "Bash(obsidian vault=llmwiki *)",
+      "Bash(xxd)"
+    ]
+  }
+}
