@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-04-28] ingest | 刘义隆（宋文帝）维基百科
+
+新增：sources/刘义隆、entities/刘义隆。更新 entities/刘裕（补充子嗣关联）、sources/风云南北朝：刘宋（补充刘义隆链接）、index.md。
+
 ## [2026-04-25] query | 票号与现代银行异同
 
 归档为 analyses/票号与现代银行异同.md。更新 index.md。
