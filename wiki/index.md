@@ -20,6 +20,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/fengyun-nanbeichao-nanqi|风云南北朝：南齐]] — 南齐479–502年，萧道成建国、萧鸾篡位大杀宗室、北魏汉化
 - [[wiki/sources/fengyun-nanbeichao-nanchen|风云南北朝：南陈]] — 南陈557–589年，陈霸先建国、太建北伐、陈后主亡国
 - [[wiki/sources/刘义隆|刘义隆（宋文帝）]] — 元嘉之治、三次北伐失败、弑父之祸，文有余武不足
+- [[wiki/sources/王华-轶事|王华轶事]] — 说服刘义隆即位、讽张邵、和尚救己等五则轶事
 - [[延年-汉朝|戏数《汉书》几延年]] — 西汉"延年"命名现象，逐一梳理《汉书》二十位同名人物
 - [[wiki/sources/qianzhuang-vs-yinhang|为什么钱庄票号干不过西方银行]] — 制度差异决定结局：特许银行是国家垄断机构，钱庄是自由市场参与者
 
@@ -45,6 +46,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/拓跋宏|拓跋宏]] — 北魏孝文帝，迁都洛阳、全面汉化改革者
 - [[wiki/entities/冯太后|冯太后]] — 北魏两度摄政，拓跋宏汉化的前期奠基者
 - [[wiki/entities/刘义隆|刘义隆]] — 刘宋第三任皇帝，元嘉之治缔造者，三次北伐皆败，被子弑杀
+- [[wiki/entities/王华|王华]] — 刘宋初年重臣，劝刘义隆放心即位的关键人物，极简自律
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*

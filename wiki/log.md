@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-04-28] ingest | 王华轶事典故（趣历史网）
+
+新增：sources/王华-轶事、entities/王华。更新 entities/刘义隆（补充王华关联）、index.md。
+
 ## [2026-04-28] ingest | 刘义隆（宋文帝）维基百科
 
 新增：sources/刘义隆、entities/刘义隆。更新 entities/刘裕（补充子嗣关联）、sources/风云南北朝：刘宋（补充刘义隆链接）、index.md。
