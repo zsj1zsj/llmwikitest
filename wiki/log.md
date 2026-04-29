@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-04-29] ingest | 李广、李陵与卫青、李广利
+
+新增：sources/李广-李陵-卫青-李广利、entities/李广、entities/李陵、entities/司马迁、concepts/汉武帝时代的悲剧将领。更新 index.md。
+
 ## [2026-04-28] ingest | 王华轶事典故（趣历史网）
 
 新增：sources/王华-轶事、entities/王华。更新 entities/刘义隆（补充王华关联）、index.md。
