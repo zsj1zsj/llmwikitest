@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-06] ingest | 田延年（维基百科）
+
+新增：sources/田延年、entities/田延年。更新 index.md。
+
 ## [2026-05-06] query | 元嘉北伐梗概与人物关系
 
 归档为 analyses/元嘉北伐梗概与人物关系.md。更新 index.md。
