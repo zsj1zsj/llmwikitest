@@ -63,3 +63,4 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 
 - [[wiki/analyses/高洋评价|高洋评价]] — 断裂式人物：前期英雄天子，555年后急速堕落，转折原因成谜
 - [[wiki/analyses/票号与现代银行异同|票号与现代银行异同]] — 业务相似但制度本质不同：票号是自由市场参与者，银行是国家特许垄断机构
+- [[wiki/analyses/元嘉北伐梗概与人物关系|元嘉北伐梗概与人物关系]] — 三次北伐经过、宋魏双方核心人物关系图、结构性败因分析
