@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-06] ingest | 批量入库（檀道济、到彦之、王仲德、段宏、萧承之、萧思话、王慧龙）
+
+新增：sources/檀道济、sources/到彦之、sources/王仲德、sources/段宏、sources/萧承之、sources/萧思话、sources/王慧龙；entities同上七人。更新 entities/萧道成（补充父亲萧承之）、index.md。跳过已入库13个。
+
 ## [2026-05-06] ingest | 田延年（维基百科）
 
 新增：sources/田延年、entities/田延年。更新 index.md。

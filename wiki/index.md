@@ -22,6 +22,13 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/刘义隆|刘义隆（宋文帝）]] — 元嘉之治、三次北伐失败、弑父之祸，文有余武不足
 - [[wiki/sources/王华-轶事|王华轶事]] — 说服刘义隆即位、讽张邵、和尚救己等五则轶事
 - [[wiki/sources/李广-李陵-卫青-李广利|李广、李陵与卫青、李广利]] — 汉武帝时代外戚用人与忠臣悲剧，涉及司马迁、苏武
+- [[wiki/sources/檀道济|檀道济]] — 刘宋第一名将，唱筹量沙、自毁长城，436年被宋文帝猜忌诛杀
+- [[wiki/sources/到彦之|到彦之]] — 第一次元嘉北伐主将，烧船溃退被下狱，配享宋文帝庙
+- [[wiki/sources/王仲德|王仲德]] — 宿将，屡次预判魏军冬季反攻，第一次北伐副将
+- [[wiki/sources/段宏|段宏]] — 鲜卑降将，历仕多国，元嘉北伐骑兵将领，著《韵集》八卷
+- [[wiki/sources/萧承之|萧承之]] — 萧道成之父，济南空城计、折矛破犀甲收复梁州
+- [[wiki/sources/萧思话|萧思话]] — 刘宋外戚，第三次北伐主帅，书法师羊欣
+- [[wiki/sources/王慧龙|王慧龙]] — 北魏官员，东晋降人，"齇王"，崔浩以女妻之，荥阳太守十年
 - [[wiki/sources/鲍照|鲍照]] — 元嘉三大家之一，写实诗风，李杜先鞭，义嘉之难中被乱兵杀害
 - [[wiki/sources/田延年|田延年]] — 霍光亲信，按剑喝斥群臣废刘贺，晚年贪污事发拔剑自刎
 - [[wiki/sources/何无忌|何无忌]] — 东晋末年将领，讨桓玄功臣，持节战死于卢循之乱
@@ -58,6 +65,13 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/司马迁|司马迁]] — 为李陵辩护遭腐刑，以残身完成《史记》
 - [[wiki/entities/鲍照|鲍照]] — 南朝宋诗人，元嘉三大家，李杜先鞭，以"初发芙蓉"比谢灵运
 - [[wiki/entities/何无忌|何无忌]] — 东晋末将领，刘裕盟友，持节战死，谥忠肃
+- [[wiki/entities/檀道济|檀道济]] — 刘宋第一名将，唱筹量沙、自毁长城，被宋文帝猜忌诛杀，八子同诛
+- [[wiki/entities/到彦之|到彦之]] — 第一次北伐主将，初胜后遇冬季反攻溃退，烧船弃甲，免官下狱
+- [[wiki/entities/王仲德|王仲德]] — 刘宋宿将，多次预警魏军冬季反攻未被采纳
+- [[wiki/entities/段宏|段宏]] — 鲜卑降将，元嘉北伐骑兵将领
+- [[wiki/entities/萧承之|萧承之]] — 萧道成之父，济南空城计、折矛破犀甲，南齐追尊宣皇帝
+- [[wiki/entities/萧思话|萧思话]] — 刘宋外戚，第三次北伐主帅，书法师羊欣
+- [[wiki/entities/王慧龙|王慧龙]] — 北魏官员，东晋降人，"齇王"，荥阳太守十年政绩卓著
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
