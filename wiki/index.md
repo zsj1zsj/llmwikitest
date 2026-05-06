@@ -22,6 +22,9 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/刘义隆|刘义隆（宋文帝）]] — 元嘉之治、三次北伐失败、弑父之祸，文有余武不足
 - [[wiki/sources/王华-轶事|王华轶事]] — 说服刘义隆即位、讽张邵、和尚救己等五则轶事
 - [[wiki/sources/李广-李陵-卫青-李广利|李广、李陵与卫青、李广利]] — 汉武帝时代外戚用人与忠臣悲剧，涉及司马迁、苏武
+- [[wiki/sources/鲍照|鲍照]] — 元嘉三大家之一，写实诗风，李杜先鞭，义嘉之难中被乱兵杀害
+- [[wiki/sources/何无忌|何无忌]] — 东晋末年将领，讨桓玄功臣，持节战死于卢循之乱
+- [[wiki/sources/元嘉北伐|元嘉北伐]] — 三次北伐详细战史，含北魏崔浩策略、檀道济唱筹量沙、盱眙守城
 - [[延年-汉朝|戏数《汉书》几延年]] — 西汉"延年"命名现象，逐一梳理《汉书》二十位同名人物
 - [[wiki/sources/qianzhuang-vs-yinhang|为什么钱庄票号干不过西方银行]] — 制度差异决定结局：特许银行是国家垄断机构，钱庄是自由市场参与者
 
@@ -52,6 +55,8 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/李广|李广]] — 汉"飞将军"，疑兵退敌、箭没入石，晚年自刎
 - [[wiki/entities/李陵|李陵]] — 李广之孙，孤军歼敌数万后兵败被俘，全家遭诛，终老匈奴
 - [[wiki/entities/司马迁|司马迁]] — 为李陵辩护遭腐刑，以残身完成《史记》
+- [[wiki/entities/鲍照|鲍照]] — 南朝宋诗人，元嘉三大家，李杜先鞭，以"初发芙蓉"比谢灵运
+- [[wiki/entities/何无忌|何无忌]] — 东晋末将领，刘裕盟友，持节战死，谥忠肃
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*

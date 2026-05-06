@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-06] ingest | 批量入库 raw/articles（鲍照、何无忌、元嘉北伐）
+
+新增：sources/鲍照、sources/何无忌、sources/元嘉北伐、entities/鲍照、entities/何无忌。更新 entities/刘裕、index.md。跳过已入库：为什么中国的钱庄票号干不过西方银行.md、为什么汉武帝时期有很多名叫"延年"人？.md、风云南北朝 南宋.md、风云南北朝 南陈.md、风云南北朝 南齐.md、李广_李陵与卫青_李广利.md、八一八南北朝的奇葩小故事_71-72.md、刘义隆.md、王华的轶事典故有哪些？王华趣事介绍-趣历史网.md（共9个）。
+
 ## [2026-04-29] ingest | 李广、李陵与卫青、李广利
 
 新增：sources/李广-李陵-卫青-李广利、entities/李广、entities/李陵、entities/司马迁、concepts/汉武帝时代的悲剧将领。更新 index.md。
