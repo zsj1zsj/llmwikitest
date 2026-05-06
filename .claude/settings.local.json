@@ -4,7 +4,16 @@
       "Bash(obsidian folders *)",
       "Bash(obsidian files *)",
       "Bash(obsidian vault=llmwiki *)",
-      "Bash(xxd)"
+      "Bash(xxd)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(gh repo *)",
+      "Bash(gh api *)",
+      "WebFetch(domain:github.com)",
+      "Bash(pip install *)",
+      "Bash(playwright install *)",
+      "Bash(notebooklm *)"
     ]
   }
 }
