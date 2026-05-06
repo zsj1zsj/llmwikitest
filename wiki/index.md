@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-04-25
+updated: 2026-05-06
 ---
 
 # Wiki Index
@@ -16,7 +16,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 *One page per ingested raw source.*
 
 - [[wiki/sources/nanbeichao-stories-71-72|八一八南北朝的奇葩小故事 第71-72条]] — 裴让之之死（高洋暴政）；崔甗与魏收的口舌之争
-- [[风云南北朝：刘宋|风云南北朝：刘宋]] — 刘宋420–479年，宗室内乱、元嘉北伐失败、萧道成篡位
+- [[wiki/sources/风云南北朝：刘宋|风云南北朝：刘宋]] — 刘宋420–479年，宗室内乱、元嘉北伐失败、萧道成篡位
 - [[wiki/sources/fengyun-nanbeichao-nanqi|风云南北朝：南齐]] — 南齐479–502年，萧道成建国、萧鸾篡位大杀宗室、北魏汉化
 - [[wiki/sources/fengyun-nanbeichao-nanchen|风云南北朝：南陈]] — 南陈557–589年，陈霸先建国、太建北伐、陈后主亡国
 - [[wiki/sources/刘义隆|刘义隆（宋文帝）]] — 元嘉之治、三次北伐失败、弑父之祸，文有余武不足
@@ -33,7 +33,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/田延年|田延年]] — 霍光亲信，按剑喝斥群臣废刘贺，晚年贪污事发拔剑自刎
 - [[wiki/sources/何无忌|何无忌]] — 东晋末年将领，讨桓玄功臣，持节战死于卢循之乱
 - [[wiki/sources/元嘉北伐|元嘉北伐]] — 三次北伐详细战史，含北魏崔浩策略、檀道济唱筹量沙、盱眙守城
-- [[延年-汉朝|戏数《汉书》几延年]] — 西汉"延年"命名现象，逐一梳理《汉书》二十位同名人物
+- [[wiki/sources/延年-汉朝|戏数《汉书》几延年]] — 西汉"延年"命名现象，逐一梳理《汉书》二十位同名人物
 - [[wiki/sources/qianzhuang-vs-yinhang|为什么钱庄票号干不过西方银行]] — 制度差异决定结局：特许银行是国家垄断机构，钱庄是自由市场参与者
 
 ## Concepts
@@ -65,6 +65,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/司马迁|司马迁]] — 为李陵辩护遭腐刑，以残身完成《史记》
 - [[wiki/entities/鲍照|鲍照]] — 南朝宋诗人，元嘉三大家，李杜先鞭，以"初发芙蓉"比谢灵运
 - [[wiki/entities/何无忌|何无忌]] — 东晋末将领，刘裕盟友，持节战死，谥忠肃
+- [[wiki/entities/田延年|田延年]] — 西汉霍光亲信，按剑喝斥群臣废刘贺，晚年贪污拔剑自刎
 - [[wiki/entities/檀道济|檀道济]] — 刘宋第一名将，唱筹量沙、自毁长城，被宋文帝猜忌诛杀，八子同诛
 - [[wiki/entities/到彦之|到彦之]] — 第一次北伐主将，初胜后遇冬季反攻溃退，烧船弃甲，免官下狱
 - [[wiki/entities/王仲德|王仲德]] — 刘宋宿将，多次预警魏军冬季反攻未被采纳

@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-06] lint | 孤立链接修复、index 补全、overview 更新
+
+修复：index.md（updated 日期、两处链接前缀、田延年 entity 补入 Entities 区）；刘义隆.md（[[裴松之]]孤立链接改为纯文本，到彦之/檀道济加 wikilink）；高洋.md（nanbeichao-stories 和杨愔链接补前缀）；南朝宗室相残.md（三处关联链接补前缀）；overview.md（大幅更新：补入元嘉北伐/汉武帝/田延年等主题，更新来源数量与 evolution notes）。标记新发现问题：崔浩尚无 entity 页。
+
 ## [2026-05-06] ingest | 批量入库（檀道济、到彦之、王仲德、段宏、萧承之、萧思话、王慧龙）
 
 新增：sources/檀道济、sources/到彦之、sources/王仲德、sources/段宏、sources/萧承之、sources/萧思话、sources/王慧龙；entities同上七人。更新 entities/萧道成（补充父亲萧承之）、index.md。跳过已入库13个。
