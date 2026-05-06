@@ -29,6 +29,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/萧承之|萧承之]] — 萧道成之父，济南空城计、折矛破犀甲收复梁州
 - [[wiki/sources/萧思话|萧思话]] — 刘宋外戚，第三次北伐主帅，书法师羊欣
 - [[wiki/sources/王慧龙|王慧龙]] — 北魏官员，东晋降人，"齇王"，崔浩以女妻之，荥阳太守十年
+- [[wiki/sources/崔浩|崔浩]] — 北魏首席谋臣，元嘉北伐"以逸待劳"策略设计者，国史之狱木笼受辱被杀
 - [[wiki/sources/鲍照|鲍照]] — 元嘉三大家之一，写实诗风，李杜先鞭，义嘉之难中被乱兵杀害
 - [[wiki/sources/田延年|田延年]] — 霍光亲信，按剑喝斥群臣废刘贺，晚年贪污事发拔剑自刎
 - [[wiki/sources/何无忌|何无忌]] — 东晋末年将领，讨桓玄功臣，持节战死于卢循之乱
@@ -73,6 +74,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/萧承之|萧承之]] — 萧道成之父，济南空城计、折矛破犀甲，南齐追尊宣皇帝
 - [[wiki/entities/萧思话|萧思话]] — 刘宋外戚，第三次北伐主帅，书法师羊欣
 - [[wiki/entities/王慧龙|王慧龙]] — 北魏官员，东晋降人，"齇王"，荥阳太守十年政绩卓著
+- [[wiki/entities/崔浩|崔浩]] — 北魏首席谋臣，统一北方战略设计者，国史之狱木笼受辱被杀，清河崔氏
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
