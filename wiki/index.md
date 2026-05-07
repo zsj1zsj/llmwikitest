@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 # Wiki Index
@@ -37,6 +37,12 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/延年-汉朝|戏数《汉书》几延年]] — 西汉"延年"命名现象，逐一梳理《汉书》二十位同名人物
 - [[wiki/sources/qianzhuang-vs-yinhang|为什么钱庄票号干不过西方银行]] — 制度差异决定结局：特许银行是国家垄断机构，钱庄是自由市场参与者
 - [[wiki/sources/刘义庆|刘义庆（临川王）]] — 《世说新语》编撰者，刘宋宗室，门客含鲍照，谨慎自保善终
+- [[wiki/sources/姚耸夫|姚耸夫]] — 刘宋猛将，斩拓跋焘叔父，后被杜骥陷害冤杀
+- [[wiki/sources/司马楚之|司马楚之]] — 东晋宗室遗孤投北魏，元嘉北伐破到彦之侧翼、克滑台，在边二十年廉俭著称
+- [[wiki/sources/鲁轨|鲁轨]] — 东晋降魏将领，到彦之评"顽钝"，子鲁爽后叛宋被杀
+- [[wiki/sources/韩延之|韩延之]] — 痛骂刘裕的东晋忠义人物，改字改名以示不臣，投魏后到彦之深惮之
+- [[wiki/sources/长孙道生|长孙道生]] — 北魏三朝老臣，元嘉北伐击败檀道济，长孙无忌先祖
+- [[wiki/sources/赫连定|赫连定]] — 胡夏末代皇帝，攻灭西秦后被吐谷浑俘虏献魏处死
 
 ## Concepts
 *Topic and concept pages.*
@@ -77,6 +83,11 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/王慧龙|王慧龙]] — 北魏官员，东晋降人，"齇王"，荥阳太守十年政绩卓著
 - [[wiki/entities/崔浩|崔浩]] — 北魏首席谋臣，统一北方战略设计者，国史之狱木笼受辱被杀，清河崔氏
 - [[wiki/entities/刘义庆|刘义庆]] — 临川王，《世说新语》主持编撰者，元嘉文学沙龙核心，谨慎自保善终
+- [[wiki/entities/姚耸夫|姚耸夫]] — 刘宋猛将，斩拓跋焘叔父，被杜骥陷害冤杀
+- [[wiki/entities/司马楚之|司马楚之]] — 东晋宗室遗孤，感化刺客，投北魏后元嘉北伐中击破刘宋，廉俭在边二十年
+- [[wiki/entities/韩延之|韩延之]] — 痛骂刘裕、改字示不臣，到彦之深惮的东晋忠义人物
+- [[wiki/entities/长孙道生|长孙道生]] — 北魏三朝廉洁老臣，击败檀道济，长孙无忌先祖
+- [[wiki/entities/赫连定|赫连定]] — 胡夏末代皇帝，灭西秦，被吐谷浑俘后献魏斩杀
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*

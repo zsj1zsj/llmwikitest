@@ -8,6 +8,14 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-07] lint | 交叉引用补全、日期修正、误导链接清除
+
+修复：① analyses/元嘉北伐梗概 补入北魏方司马楚之、长孙道生、崔浩wikilink；② sources/元嘉北伐 关联补全（8个实体链接）；③ entities/王慧龙 补入到彦之评语；④ entities/檀道济 补入长孙道生关联；⑤ concepts/世家大族 补入王慧龙、司马楚之典型案例；⑥ index.md、entities/到彦之 updated 日期修正为2026-05-07；⑦ 删除 entities/赫连定 和 sources/赫连定 中误链接到南北朝对应关系的条目（赫连定为十六国人物）。
+
+## [2026-05-07] ingest | 批量入库（姚耸夫、司马楚之、鲁轨、韩延之、长孙道生、赫连定）
+
+新增：sources/姚耸夫、sources/司马楚之、sources/鲁轨、sources/韩延之、sources/长孙道生、sources/赫连定；entities/姚耸夫、entities/司马楚之、entities/韩延之、entities/长孙道生、entities/赫连定。更新 entities/到彦之（补充评人语录及关联）、index.md。跳过已入库：24个文件。
+
 ## [2026-05-07] ingest | 刘义庆（维基百科）
 
 新增：sources/刘义庆、entities/刘义庆。更新 entities/鲍照（补充刘义庆门客关联）、index.md。跳过已入库：22个文件。
