@@ -36,6 +36,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/元嘉北伐|元嘉北伐]] — 三次北伐详细战史，含北魏崔浩策略、檀道济唱筹量沙、盱眙守城
 - [[wiki/sources/延年-汉朝|戏数《汉书》几延年]] — 西汉"延年"命名现象，逐一梳理《汉书》二十位同名人物
 - [[wiki/sources/qianzhuang-vs-yinhang|为什么钱庄票号干不过西方银行]] — 制度差异决定结局：特许银行是国家垄断机构，钱庄是自由市场参与者
+- [[wiki/sources/刘义庆|刘义庆（临川王）]] — 《世说新语》编撰者，刘宋宗室，门客含鲍照，谨慎自保善终
 
 ## Concepts
 *Topic and concept pages.*
@@ -75,6 +76,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/萧思话|萧思话]] — 刘宋外戚，第三次北伐主帅，书法师羊欣
 - [[wiki/entities/王慧龙|王慧龙]] — 北魏官员，东晋降人，"齇王"，荥阳太守十年政绩卓著
 - [[wiki/entities/崔浩|崔浩]] — 北魏首席谋臣，统一北方战略设计者，国史之狱木笼受辱被杀，清河崔氏
+- [[wiki/entities/刘义庆|刘义庆]] — 临川王，《世说新语》主持编撰者，元嘉文学沙龙核心，谨慎自保善终
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*

@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-07] ingest | 刘义庆（维基百科）
+
+新增：sources/刘义庆、entities/刘义庆。更新 entities/鲍照（补充刘义庆门客关联）、index.md。跳过已入库：22个文件。
+
 ## [2026-05-06] ingest | 崔浩（维基百科）
 
 新增：sources/崔浩、entities/崔浩。更新 entities/王慧龙（补充崔浩关联）、index.md、overview.md（移除崔浩遗留问题标记）。
