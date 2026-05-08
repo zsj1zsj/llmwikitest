@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-08] ingest | 沈庆之（维基百科）
+
+新增：sources/沈庆之、entities/沈庆之。更新 analyses/元嘉北伐梗概与人物关系（补入沈庆之"步不敌骑"wikilink、第二次北伐副手条目、关联）；sources/元嘉北伐（补入沈庆之链接）；index.md。
+
 ## [2026-05-08] lint | 断链修复、缺失实体补全、交叉引用补入
 
 修复：① entities/鲁爽 引用的 entities/鲁轨 不存在 → 新建 entities/鲁轨；② sources/盖吴起事 中 [[wiki/entities/薛安都]] 无对应页面 → 改为纯文本；③ concepts/南朝宗室相残 两处 [[刘裕]] [[高洋]] 缺路径前缀 → 补全；④ concepts/南朝宗室相残 刘劭弑父无链 → 补 [[wiki/entities/刘劭]]；⑤ entities/刘义隆 [[刘裕]] 缺前缀、王玄谟无链 → 补全；⑥ sources/元嘉北伐 王玄谟、萧斌、臧质 无链 → 补实体链接；⑦ index.md 补入 entities/鲁轨 条目。

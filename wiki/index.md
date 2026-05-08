@@ -53,6 +53,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/萧斌|萧斌（刘宋）]] — 第二次北伐总主帅，后支持刘劭政变，兵败白幡请降被杀
 - [[wiki/sources/鲁爽|鲁爽]] — 北魏降将，万人敌，醉酒提前起兵破坏叛乱联合，战死
 - [[wiki/sources/刘劭|刘劭（元凶）]] — 弑父篡位，在位一百日被讨灭，宋书称"元凶"
+- [[wiki/sources/沈庆之|沈庆之]] — 三次反对北伐、平蛮"苍头公"、辅立孝武帝，揭发废帝阴谋，侄子沈攸之闷杀，年八十
 
 ## Concepts
 *Topic and concept pages.*
@@ -109,6 +110,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/鲁轨|鲁轨]] — 东晋降魏将领，镇长社，因杀刘康祖父、徐湛之父不敢归宋，子鲁爽后叛乱被杀
 - [[wiki/entities/鲁爽|鲁爽]] — 北魏降宋"万人敌"，醉酒提前起兵叛乱被杀
 - [[wiki/entities/刘劭|刘劭]] — 宋文帝长子，弑父篡位百日，"元凶"
+- [[wiki/entities/沈庆之|沈庆之]] — 刘宋名将，"苍头公"，三次反对北伐，辅立孝武帝，告发顾命大臣密谋，年八十被杀
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
