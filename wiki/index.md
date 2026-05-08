@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-05-07
+updated: 2026-05-08
 ---
 
 # Wiki Index
@@ -43,6 +43,16 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/韩延之|韩延之]] — 痛骂刘裕的东晋忠义人物，改字改名以示不臣，投魏后到彦之深惮之
 - [[wiki/sources/长孙道生|长孙道生]] — 北魏三朝老臣，元嘉北伐击败檀道济，长孙无忌先祖
 - [[wiki/sources/赫连定|赫连定]] — 胡夏末代皇帝，攻灭西秦后被吐谷浑俘虏献魏处死
+- [[wiki/sources/盖吴起事|盖吴起事]] — 北魏卢水胡叛乱（445–446年），太武帝亲征，崔浩谋划，灭佛导火索
+- [[wiki/sources/王玄谟|王玄谟]] — 第二次北伐东线主将，围滑台二百日不克，兵溃夜遁
+- [[wiki/sources/臧质|臧质]] — 守盱眙以尿回击太武帝，后叛乱于南湖水中被杀
+- [[wiki/sources/刘康祖|刘康祖]] — 援救悬瓠，尉武之战八千对八万骑战死，谥壮
+- [[wiki/sources/陈宪|陈宪]] — 以不足千人守悬瓠四十余日，击退太武帝亲征
+- [[wiki/sources/江湛|江湛]] — 北伐支持者，宋文帝重臣，刘劭政变遇害，谥忠简公
+- [[wiki/sources/徐湛之|徐湛之]] — 北伐支持者，宋武帝外孙，政变夜与文帝密谈时被杀，谥忠烈公
+- [[wiki/sources/萧斌|萧斌（刘宋）]] — 第二次北伐总主帅，后支持刘劭政变，兵败白幡请降被杀
+- [[wiki/sources/鲁爽|鲁爽]] — 北魏降将，万人敌，醉酒提前起兵破坏叛乱联合，战死
+- [[wiki/sources/刘劭|刘劭（元凶）]] — 弑父篡位，在位一百日被讨灭，宋书称"元凶"
 
 ## Concepts
 *Topic and concept pages.*
@@ -88,6 +98,17 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/韩延之|韩延之]] — 痛骂刘裕、改字示不臣，到彦之深惮的东晋忠义人物
 - [[wiki/entities/长孙道生|长孙道生]] — 北魏三朝廉洁老臣，击败檀道济，长孙无忌先祖
 - [[wiki/entities/赫连定|赫连定]] — 胡夏末代皇帝，灭西秦，被吐谷浑俘后献魏斩杀
+- [[wiki/entities/盖吴|盖吴]] — 北魏卢水胡叛乱领袖，445–446年，自称天台王，被亲族出卖斩杀
+- [[wiki/entities/王玄谟|王玄谟]] — 第二次北伐东线主将，围滑台二百日不克，"宁作五年徒，不逢王玄谟"
+- [[wiki/entities/臧质|臧质]] — 盱眙以尿回击太武帝，后叛乱水中被杀，漆首藏武库
+- [[wiki/entities/刘康祖|刘康祖]] — 援救悬瓠，尉武八千对八万力战而死，谥壮
+- [[wiki/entities/陈宪|陈宪]] — 守悬瓠，不足千人坚守四十余日
+- [[wiki/entities/江湛|江湛]] — 宋文帝吏部尚书，"江徐"之一，刘劭政变夜遇害，谥忠简公
+- [[wiki/entities/徐湛之|徐湛之]] — 尚书仆射，"江徐"之一，武帝外孙，政变夜彻夜密谈时被杀，谥忠烈公
+- [[wiki/entities/萧斌|萧斌]] — 第二次北伐主帅，后支持刘劭政变，兵败被杀
+- [[wiki/entities/鲁轨|鲁轨]] — 东晋降魏将领，镇长社，因杀刘康祖父、徐湛之父不敢归宋，子鲁爽后叛乱被杀
+- [[wiki/entities/鲁爽|鲁爽]] — 北魏降宋"万人敌"，醉酒提前起兵叛乱被杀
+- [[wiki/entities/刘劭|刘劭]] — 宋文帝长子，弑父篡位百日，"元凶"
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
