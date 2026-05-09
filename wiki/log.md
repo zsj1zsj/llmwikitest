@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-09] lint | 补全第三次北伐叙事与人物wikilink
+
+analyses/元嘉北伐梗概：第三次北伐段落补入萧思话、鲁爽、臧质、沈庆之wikilink，补入刘兴祖建议细节；图表补萧思话wikilink及鲁爽降将参战条目；关联描述修正。
+
 ## [2026-05-08] ingest | 沈庆之（维基百科）
 
 新增：sources/沈庆之、entities/沈庆之。更新 analyses/元嘉北伐梗概与人物关系（补入沈庆之"步不敌骑"wikilink、第二次北伐副手条目、关联）；sources/元嘉北伐（补入沈庆之链接）；index.md。
