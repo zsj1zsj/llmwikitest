@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-15] ingest | Meetrics 个人指标追踪博客
+
+新增 sources/meetrics-个人指标追踪。要点：自定义标签+可调lag相关性分析（发现化疗副作用8天滞后）、贝叶斯习惯追踪、Claude驱动AI分析师。更新 index.md。
+
 ## [2026-05-15] ingest | 地图上的南北朝（14幅地图，嘻嘻网·地图帝）
 
 新增 sources/地图上的南北朝。更新 concepts/建康城格局（补入外郭篱、西州城、丹阳郡城、乐游苑、百官府舍、东晋四帝陵区；更新来源）。更新 index.md。
