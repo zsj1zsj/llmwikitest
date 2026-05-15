@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # Wiki Index
@@ -57,6 +57,8 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/建业-建康城|建业城与建康城（地图）]] — 六朝都城平面图，含台城、石头城、东府城、清溪、秦淮河等地标
 - [[wiki/sources/地图上的南北朝|地图上的南北朝（14幅）]] — 东晋十六国至隋灭南陈全程地图；含刘裕北伐、两次元嘉北伐路线、建康城详图、六镇起义分布
 - [[wiki/sources/meetrics-个人指标追踪|Meetrics：个人指标追踪]] — 癌症患者自建 iOS app；自定义标签、可调lag相关性分析、贝叶斯习惯追踪、AI分析师
+- [[wiki/sources/刘宋20名将|刘宋朝20位名将之结局]] — 刘宋立国至宋明帝时期20位将领结局；11/20死于内斗猜忌，功臣几乎无一善终
+- [[wiki/sources/魏晋南北朝基本史料目录|魏晋南北朝基本史料目录]] — 学术书目七类，首选《宋书》研究刘宋，《魏书》研究北魏
 
 ## Concepts
 *Topic and concept pages.*
@@ -115,6 +117,8 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/鲁爽|鲁爽]] — 北魏降宋"万人敌"，醉酒提前起兵叛乱被杀
 - [[wiki/entities/刘劭|刘劭]] — 宋文帝长子，弑父篡位百日，"元凶"
 - [[wiki/entities/沈庆之|沈庆之]] — 刘宋名将，"苍头公"，三次反对北伐，辅立孝武帝，告发顾命大臣密谋，年八十被杀
+- [[wiki/entities/柳元景|柳元景]] — 第二次北伐西线主将，攻弘农；顾命大臣，密谋废前废帝被沈庆之告发，八子六弟同诛
+- [[wiki/entities/沈攸之|沈攸之]] — 沈庆之从子，奉命闷杀沈庆之，后起兵反萧道成兵败自杀
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*

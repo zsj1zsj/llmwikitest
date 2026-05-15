@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-09] ingest | 批量入库（刘宋20名将、魏晋南北朝基本史料目录、维基百科人物页）
+
+新增 sources：刘宋20名将、魏晋南北朝基本史料目录。新增 entities：柳元景、沈攸之。更新 analyses/元嘉北伐梗概（柳元景 wikilink 补全）；更新 index.md。跳过：地图上的南北朝（已入库）、南北朝历史导航页（无实质内容）。
+
 ## [2026-05-15] ingest | Meetrics 个人指标追踪博客
 
 新增 sources/meetrics-个人指标追踪。要点：自定义标签+可调lag相关性分析（发现化疗副作用8天滞后）、贝叶斯习惯追踪、Claude驱动AI分析师。更新 index.md。
