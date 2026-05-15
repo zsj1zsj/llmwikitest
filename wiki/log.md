@@ -8,6 +8,10 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-15] ingest | 建业城与建康城平面图（古建筑图册）
+
+新增 sources/建业-建康城（地图解读）、concepts/建康城格局（台城/石头城/东府城/清溪/秦淮河布局及与刘宋史事的对应）。更新 index.md。
+
 ## [2026-05-09] lint | 补全第三次北伐叙事与人物wikilink
 
 analyses/元嘉北伐梗概：第三次北伐段落补入萧思话、鲁爽、臧质、沈庆之wikilink，补入刘兴祖建议细节；图表补萧思话wikilink及鲁爽降将参战条目；关联描述修正。

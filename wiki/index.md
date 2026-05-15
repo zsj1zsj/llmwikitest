@@ -54,6 +54,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/鲁爽|鲁爽]] — 北魏降将，万人敌，醉酒提前起兵破坏叛乱联合，战死
 - [[wiki/sources/刘劭|刘劭（元凶）]] — 弑父篡位，在位一百日被讨灭，宋书称"元凶"
 - [[wiki/sources/沈庆之|沈庆之]] — 三次反对北伐、平蛮"苍头公"、辅立孝武帝，揭发废帝阴谋，侄子沈攸之闷杀，年八十
+- [[wiki/sources/建业-建康城|建业城与建康城（地图）]] — 六朝都城平面图，含台城、石头城、东府城、清溪、秦淮河等地标
 
 ## Concepts
 *Topic and concept pages.*
@@ -64,6 +65,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/concepts/南北朝对应关系|南北朝对应关系]] — 南北各朝的时间对应表与禅代脉络
 - [[wiki/concepts/南朝宗室相残|南朝宗室相残]] — 南朝政权的结构性政治病，贯穿刘宋至南齐
 - [[wiki/concepts/汉武帝时代的悲剧将领|汉武帝时代的悲剧将领]] — 外戚优先用人逻辑下李广、李陵、司马迁的系统性毁灭
+- [[wiki/concepts/建康城格局|建康城格局]] — 六朝都城布局：台城、石头城、东府城、清溪、秦淮河，贯穿南朝史事
 
 ## Entities
 *People, organizations, products, projects.*
