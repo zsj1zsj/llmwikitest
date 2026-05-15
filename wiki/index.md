@@ -59,6 +59,12 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/meetrics-个人指标追踪|Meetrics：个人指标追踪]] — 癌症患者自建 iOS app；自定义标签、可调lag相关性分析、贝叶斯习惯追踪、AI分析师
 - [[wiki/sources/刘宋20名将|刘宋朝20位名将之结局]] — 刘宋立国至宋明帝时期20位将领结局；11/20死于内斗猜忌，功臣几乎无一善终
 - [[wiki/sources/魏晋南北朝基本史料目录|魏晋南北朝基本史料目录]] — 学术书目七类，首选《宋书》研究刘宋，《魏书》研究北魏
+- [[wiki/sources/刘义康|刘义康（彭城王）]] — 宋文帝之弟，独掌朝政，矫诏杀檀道济，范晔案后废庶人，瓜步危机中被闷杀
+- [[wiki/sources/范晔|范晔（《后汉书》作者）]] — 士族庶子，被贬后著前四史之一《后汉书》，445年卷入刘义康案被杀
+- [[wiki/sources/魏太武帝|魏太武帝拓跋焘]] — 北魏第三帝，统一华北，元嘉北伐主要对手，灭佛，国史之狱，452年被弑
+- [[wiki/sources/元嘉之治|元嘉之治]] — 宋文帝前期治世，民生经济文化全面复苏，450年北伐大败后骤然衰落
+- [[wiki/sources/谢灵运|谢灵运]] — 山水诗开创者，"才高八斗"典出，433年以谋反罪在广州被杀
+- [[wiki/sources/颜延之|颜延之]] — "颜谢"之一，好酒放诞"颜虎"，元嘉三大家，73岁善终
 
 ## Concepts
 *Topic and concept pages.*
@@ -70,6 +76,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/concepts/南朝宗室相残|南朝宗室相残]] — 南朝政权的结构性政治病，贯穿刘宋至南齐
 - [[wiki/concepts/汉武帝时代的悲剧将领|汉武帝时代的悲剧将领]] — 外戚优先用人逻辑下李广、李陵、司马迁的系统性毁灭
 - [[wiki/concepts/建康城格局|建康城格局]] — 六朝都城布局：台城、石头城、东府城、清溪、秦淮河，贯穿南朝史事
+- [[wiki/concepts/元嘉之治|元嘉之治]] — 宋文帝前期治世三维度：民生经济、制度文化、政治清明；450年北伐后衰落
 
 ## Entities
 *People, organizations, products, projects.*
@@ -117,6 +124,11 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/鲁爽|鲁爽]] — 北魏降宋"万人敌"，醉酒提前起兵叛乱被杀
 - [[wiki/entities/刘劭|刘劭]] — 宋文帝长子，弑父篡位百日，"元凶"
 - [[wiki/entities/沈庆之|沈庆之]] — 刘宋名将，"苍头公"，三次反对北伐，辅立孝武帝，告发顾命大臣密谋，年八十被杀
+- [[wiki/entities/刘义康|刘义康]] — 宋文帝之弟，彭城王，独掌朝政矫诏杀檀道济，范晔案废庶人，瓜步危机中被闷杀
+- [[wiki/entities/范晔|范晔]] — 《后汉书》作者，445年卷入刘义康拥立案被杀
+- [[wiki/entities/拓跋焘|拓跋焘（魏太武帝）]] — 北魏第三帝，统一华北，元嘉北伐主要对手，灭佛，452年被宦官弑杀
+- [[wiki/entities/谢灵运|谢灵运]] — 山水诗开创者，"才高八斗"典出，433年广州弃市
+- [[wiki/entities/颜延之|颜延之]] — "颜谢"之一，刘宋文学家，好酒放诞"颜虎"，73岁善终
 - [[wiki/entities/柳元景|柳元景]] — 第二次北伐西线主将，攻弘农；顾命大臣，密谋废前废帝被沈庆之告发，八子六弟同诛
 - [[wiki/entities/沈攸之|沈攸之]] — 沈庆之从子，奉命闷杀沈庆之，后起兵反萧道成兵败自杀
 
