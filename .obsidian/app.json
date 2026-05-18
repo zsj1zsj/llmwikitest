@@ -1,5 +1,5 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "raw/assets/",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": false
 }
