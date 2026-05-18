@@ -102,6 +102,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/殷淑仪|殷淑仪]] — 实为刘义宣之女；刘义宣叛乱触发点；孝武帝"拟李夫人赋"痴情悼亡
 - [[wiki/sources/薛安都|薛安都]] — 第二次北伐单骑冲阵克弘农；斩鲁爽关羽比；义嘉降魏直接触发五州沦陷
 - [[wiki/sources/颜师伯|颜师伯]] — 孝武帝宠信冠绝群臣；顾命"尚书中事"；大明二年清口之战指挥者
+- [[wiki/sources/清河崔氏-氏族志|清河崔氏：氏族志事件与家族兴衰]] — 贞观《氏族志》降崔氏为三等；崔宏父子北魏制度建设；五姓七望；唐代12宰相7状元至907年覆亡
 
 ## Concepts
 *Topic and concept pages.*
@@ -199,6 +200,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/殷淑仪|殷淑仪]] — 刘义宣之女（刘骏堂妹），宠冠后宫，462年逝后孝武帝作拟李夫人赋痴情悼亡
 - [[wiki/entities/薛安都|薛安都]] — 单骑克弘农，斩鲁爽，义嘉之乱降北魏致徐州失守，五州沦陷直接诱因
 - [[wiki/entities/颜师伯|颜师伯]] — 颜竣族兄，孝武帝宠信第一，顾命掌尚书，465年与刘义恭柳元景同日被杀
+- [[wiki/entities/崔宏|崔宏]] — 建议拓跋珪以"魏"为国号，北魏制度设计者（官制/律令/朝仪），崔浩之父
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*

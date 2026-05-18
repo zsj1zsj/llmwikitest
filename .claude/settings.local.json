@@ -13,7 +13,9 @@
       "WebFetch(domain:github.com)",
       "Bash(pip install *)",
       "Bash(playwright install *)",
-      "Bash(notebooklm *)"
+      "Bash(notebooklm *)",
+      "Bash(git *)",
+      "Bash(sort grep *)"
     ]
   }
 }
