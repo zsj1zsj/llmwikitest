@@ -112,6 +112,19 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/redis-分布式锁|Redis 分布式锁（图解史上最全）]] — 悲观/乐观DB锁、ZooKeeper锁、Redis SETNX/Redisson WatchDog/RedLock算法
 - [[wiki/sources/杨惠之考|杨惠之考（西域文明的发现）]] — 盛唐"塑圣"杨惠之文献考证，首创塑壁技法，作品实物千年不存，以敦煌/吐鲁番考古推测原貌
 - [[wiki/sources/风云南北朝-箫梁|风云南北朝：箫梁]] — 萧梁502–557年全史：钟离之战、白袍北伐、侯景之乱、陈霸先建陈，含11场战役与90条地名对照
+- [[wiki/sources/america-wakes-up-ai-power|美国觉醒于 AI 的危险力量]] — Anthropic Mythos 事件后美国 AI 政策从自由放任转向国家安全驱动监管
+- [[wiki/sources/china-nationalist-spy-thriller|中国主旋律谍战片困境]] — 《惊变》票房仅12.5亿远不及《战狼2》；2020年53%→2026年12%，主旋律电影失势
+- [[wiki/sources/china-tea-brands-america|中国茶饮品牌进军美国]] — 霸王茶姬/喜茶/蜜雪冰城挑战台湾贡茶/CoCo；美国咖啡市场是茶饮28倍
+- [[wiki/sources/iran-war-taiwan-risk|伊朗战争与台湾风险]] — 美伊战争消耗美军，2028–2032窗口期风险上升；军委清洗、台湾大选变量
+- [[wiki/sources/how-china-wins-from-war|中国如何从战争中获益]] — 北京将美伊战争视为美国重大失误，预期战后格局有利中国
+- [[wiki/sources/pakistan-gulf-broker|巴基斯坦：海湾和平斡旋者]] — 穆尼尔元帅促成美伊两周停火；巴基斯坦借调停重塑全球外交地位
+- [[wiki/sources/cheap-energy-china-ai|廉价能源与中国 AI]] — 中国电网容量美国两倍、电价一半，"电子鸿沟"或弥补芯片短板
+- [[wiki/sources/music-brain-benefits|演奏音乐对大脑的益处]] — 音乐训练增加灰质、提升记忆和执行功能；7岁前训练胼胝体更大
+- [[wiki/sources/why-china-worries-ai|中国政府为何担忧 AI]] — OpenClaw事件暴露就业冲击、网络安全、"快跑vs安全"三重困境
+- [[wiki/sources/openclaw-prompts|OpenClaw 10个实用提示词]] — 第二大脑、晨间简报、学习教练、邮件助理等10个经过压力测试的AI Agent提示词
+- [[wiki/sources/china-public-opinion-taiwan|中国民意：对美台态度硬化]] — 卡特中心6500人调查：反对武力统一从50%降至38%，视美国为安全威胁达75%
+- [[wiki/sources/skilluse-ai-agent-skills|SkillUse：AI Agent 技能管理]] — 基于 GitHub 的 AI Agent 技能注册中心，安装后立即生效
+- [[wiki/sources/china-property-rotten-tail|中国房地产泡沫的"烂尾"]] — 约2000万套预售未完工房产，涉及17万亿元家庭财富
 
 ## Concepts
 *Topic and concept pages.*
@@ -129,6 +142,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/concepts/Redis|Redis]] — 内存数据存储，单线程事件循环，9种数据类型，集群Hash Slot分片，常见使用场景
 - [[wiki/concepts/缓存一致性|缓存一致性]] — Cache-Aside/Read-Through/Write-Through/Write-Behind四策略；延迟双删；CAP最终一致性
 - [[wiki/concepts/分布式锁|分布式锁]] — 跨JVM互斥机制；Redis SETNX、Redisson WatchDog自动续期、RedLock多节点算法
+- [[wiki/sources/openclaw-china-ai-craze|OpenClaw：中国 AI 热潮与监管困境]] — 2026年3月中国AI Agent热潮与监管收紧事件，折射"快跑vs安全"治理困境
 
 ## Entities
 *People, organizations, products, projects.*

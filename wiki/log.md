@@ -8,6 +8,33 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-27] batch-ingest | 12篇剩余文章入库（Economist地缘/AI系列 + 工具类）
+
+### 新建来源页（13篇）
+- `america-wakes-up-ai-power.md` — Anthropic Mythos事件，美国AI政策转向
+- `china-nationalist-spy-thriller.md` — 主旋律电影票房从53%跌至12%
+- `china-tea-brands-america.md` — 霸王茶姬/喜茶/蜜雪冰城进军美国
+- `iran-war-taiwan-risk.md` — 美伊战争消耗美军，2028-2032窗口期风险上升
+- `how-china-wins-from-war.md` — 北京视美伊战争为美国重大失误
+- `pakistan-gulf-broker.md` — 穆尼尔元帅促成美伊停火
+- `cheap-energy-china-ai.md` — 中国电网容量美国两倍，"电子鸿沟"或弥补芯片短板
+- `music-brain-benefits.md` — 音乐训练增加灰质、7岁前训练胼胝体更大
+- `why-china-worries-ai.md` — OpenClaw事件暴露中国AI治理三重困境
+- `openclaw-prompts.md` — 10个经过压力测试的OpenClaw提示词
+- `china-public-opinion-taiwan.md` — 卡特中心6500人调查：对美台态度硬化
+- `skilluse-ai-agent-skills.md` — AI Agent技能注册中心
+- `china-property-rotten-tail.md` — 2000万套烂尾楼、17万亿元财富锁死
+
+### 新建概念页
+- `openclaw-china-ai-craze.md` — OpenClaw热潮与监管困境（综合两篇来源）
+
+### 跳过（已入库）
+- `为什么汉武帝时期有很多名叫"延年"人？.md` → 已有 `延年-汉朝.md`
+- `刘昱.md` → 已有 `wiki/sources/刘昱.md`
+
+### 更新
+- `wiki/index.md` — +14条 source/concept 条目
+
 ## [2026-05-27] lint | 断链修复
 
 - 修复：`concepts/Redis.md` 第34行：`[[wiki/concepts/Redis内部数据结构]]` → `[[wiki/sources/redis-数据结构-图解|图解 Redis 数据结构]]`（目标页不存在，改指向已入库的source页）
