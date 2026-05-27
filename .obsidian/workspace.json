@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/地图上的南北朝（14幅地图）.md",
-                "mode": "source",
+                "file": "wiki/entities/杨惠之.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "地图上的南北朝（14幅地图）"
+              "title": "杨惠之"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 200
   },
   "right": {
     "id": "615da420bd1eb5c2",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/articles/地图上的南北朝（14幅地图）.md",
+                "file": "wiki/entities/杨惠之.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 地图上的南北朝（14幅地图）"
+              "title": "Backlinks for 杨惠之"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/articles/地图上的南北朝（14幅地图）.md",
+                "file": "wiki/entities/杨惠之.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 地图上的南北朝（14幅地图）"
+              "title": "Outline of 杨惠之"
             }
           }
         ],
@@ -215,42 +215,42 @@
   },
   "active": "ec4a24f398e31a91",
   "lastOpenFiles": [
+    "wiki/entities/杨惠之.md",
+    "wiki/analyses/刘义隆时代.md",
+    "wiki/index.md",
+    "wiki/sources/杨惠之考.md",
+    "raw/articles/中国的米开朗基罗——杨惠之考 - 西域文明的发现-2025-09-23.md",
+    "Welcome.md",
+    "obsidian cli help.md",
+    "raw/articles/地图上的南北朝（14幅地图）.md",
+    "raw/assets/0618c79af5d251115da5f343aaa6af38_MD5.webp",
+    "raw/assets/d1a4cc29defae5dba2c8bdb4df407339_MD5.jpg",
+    "raw/assets/78ce76578ad3305668e4b9936abbebe3_MD5.jpg",
+    "raw/assets/f9a274930427f6435f28cc21df531518_MD5.png",
+    "raw/assets/ec2963f179d8bf8b3e03ad31fb4e6467_MD5.png",
+    "raw/assets/eae5a16657e83ea4c9d78eac6ed1e2e4_MD5.png",
+    "raw/assets/e0e0682b7b7351e28e04556b43dd1a95_MD5.png",
+    "raw/assets/dc664d1db0c211ab974267af4c2e07d6_MD5.png",
+    "raw/assets/d5fe7356a4726a9d78dd512191c3caed_MD5.png",
+    "raw/assets/cf6db1ab2a9df1426eab678a9a57b560_MD5.png",
+    "wiki/concepts/分布式锁.md",
+    "wiki/concepts/缓存一致性.md",
+    "wiki/concepts/Redis.md",
+    "wiki/sources/redis-分布式锁.md",
+    "wiki/sources/redis-数据结构-图解.md",
+    "wiki/sources/redis-mysql-consistency.md",
+    "wiki/sources/cache-consistency-three-ways.md",
+    "wiki/sources/redis-面试.md",
+    "wiki/sources/redis-overview.md",
+    "wiki/sources/redis-命令速查.md",
+    "raw/articles/How To Solve the Data Consistency Issues Between Redis And MySQL.md",
+    "raw/articles/Three Ways to Maintain Cache Consistency.md",
+    "raw/articles/redis 面试.md",
+    "raw/articles/Redis 揭秘：从诞生到高速数据存储的革命.md",
+    "raw/articles/Redis分布式锁.md",
+    "raw/articles/reids.md",
+    "raw/articles/2w 字，40 张手绘图带你搞定 Redis 数据结构.md",
     "raw/articles/南北朝历史_魏晋南北朝历史时期地图_南北朝名将的故事_南北朝皇帝列表名人 - 趣历史.md",
-    "raw/articles/1.6 三国建业城与东晋建康城 - 古建筑.md",
-    "raw/articles/李世民修《氏族志》，清河崔氏的荣耀与没落.md",
-    "wiki/entities/崔宏.md",
-    "wiki/sources/清河崔氏-氏族志.md",
-    "raw/assets/580b3fe0378652c05d3a35f8296a1888_MD5.jpg",
-    "raw/assets/11c737567405d8e8776a01bcb34f9161_MD5.jpg",
-    "raw/assets/efeaf8b2c4e72b7b6dda14ce267b203c_MD5.png",
-    "raw/assets/7ff2de203a9bd8345265bde586f3df01_MD5.png",
-    "raw/assets/91063a2047649452dc71aaaff672f56f_MD5.jpg",
-    "raw/assets/5cdb291d5f542e1d8105eb6516e8c15e_MD5.jpg",
-    "raw/assets/c01bdafcfb093e2c0ac2fbd33821c1bb_MD5.jpg",
-    "raw/assets/e95a9014ffce5e40f0c6b4927cbbe4d9_MD5.jpg",
-    "raw/assets/1d68669bf5e79b0a4ee3c9047c782199_MD5.png",
-    "raw/assets/f72340a2acb37b4a4ac2301af80d3687_MD5.jpg",
-    "wiki/analyses/刘彧与刘昱时代.md",
-    "wiki/analyses/宋孝武帝刘骏.md",
-    "raw/articles/刘义恭 - 维基百科，自由的百科全书.md",
-    "wiki/entities/颜师伯.md",
-    "wiki/entities/薛安都.md",
-    "wiki/entities/殷淑仪.md",
-    "wiki/entities/宗悫.md",
-    "wiki/entities/刘义恭.md",
-    "wiki/sources/颜师伯.md",
-    "wiki/sources/薛安都.md",
-    "wiki/sources/殷淑仪.md",
-    "wiki/sources/宗悫.md",
-    "wiki/sources/刘义恭.md",
-    "raw/articles/薛安都 - 维基百科，自由的百科全书.md",
-    "raw/articles/宗悫 - 维基百科，自由的百科全书.md",
-    "raw/articles/殷淑仪 - 维基百科，自由的百科全书.md",
-    "raw/articles/颜师伯 - 维基百科，自由的百科全书.md",
-    "raw/articles/刘宋孝武帝以降南北军事关系演进研究.md",
-    "wiki/sources/宋孝武时代文学新变-书介.md",
-    "wiki/sources/南北军事关系-孝武帝以降.md",
-    "raw/articles/赫兆丰：《宋孝武时代与南朝文学新变研究》_政治_大明_第二节.md",
     "005.Resources",
     "raw/assets"
   ]

@@ -8,6 +8,31 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-27] ingest | 杨惠之考（西域文明的发现）
+
+- 新建来源页：`wiki/sources/杨惠之考.md`
+- 新建实体页：`wiki/entities/杨惠之.md`（盛唐"塑圣"，与吴道子齐名，首创塑壁技法）
+- 更新：`wiki/index.md`（+2条 source/entity）
+- 跳过：无
+
+## [2026-05-21] ingest | 批量入库 Redis 系列（7篇）
+
+新建 source 页（7页）：
+- `redis-overview`：Redis 起源与架构（RESP/单线程/jemalloc/部署模式）
+- `redis-面试`：面试题整理（9种数据类型、集群 Hash Slot 分片、单线程性能）
+- `redis-命令速查`：个人命令笔记（String/List/Hash/Set 速查）
+- `redis-数据结构-图解`：9种底层数据结构详解（SDS/跳表/quicklist/listpack等）
+- `cache-consistency-three-ways`：三种缓存一致性策略
+- `redis-mysql-consistency`：Cache-Aside 最佳实践、延迟双删、Canal binlog方案
+- `redis-分布式锁`：悲观锁/乐观锁/ZK锁/Redis SETNX/Redisson/RedLock
+
+新建 concept 页（3页）：
+- `Redis`：综合概念页（数据类型、底层结构对应、部署、使用场景）
+- `缓存一致性`：四策略对比、延迟双删、CAP 最终一致性
+- `分布式锁`：四大条件、各方案对比、Redisson WatchDog 原理
+
+跳过：`.gitkeep`、`.DS_Store`（非内容文件）；其余历史文章已全部入库。
+
 ## [2026-05-18] ingest | 李世民修《氏族志》，清河崔氏的荣耀与没落
 
 - 新建来源页：`wiki/sources/清河崔氏-氏族志.md`
