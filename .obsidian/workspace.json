@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/entities/杨惠之.md",
+                "file": "wiki/entities/侯景.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "杨惠之"
+              "title": "侯景"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "风云南北朝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 471.5
   },
   "right": {
     "id": "615da420bd1eb5c2",
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/entities/杨惠之.md",
+                "file": "wiki/entities/侯景.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 杨惠之"
+              "title": "Backlinks for 侯景"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/entities/杨惠之.md",
+                "file": "wiki/entities/侯景.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 杨惠之"
+              "title": "Outline of 侯景"
             }
           }
         ],
@@ -215,9 +215,20 @@
   },
   "active": "ec4a24f398e31a91",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/sources/fengyun-nanbeichao-nanqi.md",
+    "wiki/entities/侯景.md",
+    "wiki/entities/萧衍.md",
+    "wiki/sources/风云南北朝-箫梁.md",
+    "raw/articles/风云南北朝 箫梁.md",
+    "raw/articles/风云南北朝 南陈.md",
+    "wiki/sources/fengyun-nanbeichao-nanchen.md",
+    "wiki/analyses/高洋评价.md",
+    "wiki/entities/高洋.md",
+    "wiki/entities/陈霸先.md",
+    "wiki/log.md",
     "wiki/entities/杨惠之.md",
     "wiki/analyses/刘义隆时代.md",
-    "wiki/index.md",
     "wiki/sources/杨惠之考.md",
     "raw/articles/中国的米开朗基罗——杨惠之考 - 西域文明的发现-2025-09-23.md",
     "Welcome.md",
@@ -240,17 +251,6 @@
     "wiki/sources/redis-数据结构-图解.md",
     "wiki/sources/redis-mysql-consistency.md",
     "wiki/sources/cache-consistency-three-ways.md",
-    "wiki/sources/redis-面试.md",
-    "wiki/sources/redis-overview.md",
-    "wiki/sources/redis-命令速查.md",
-    "raw/articles/How To Solve the Data Consistency Issues Between Redis And MySQL.md",
-    "raw/articles/Three Ways to Maintain Cache Consistency.md",
-    "raw/articles/redis 面试.md",
-    "raw/articles/Redis 揭秘：从诞生到高速数据存储的革命.md",
-    "raw/articles/Redis分布式锁.md",
-    "raw/articles/reids.md",
-    "raw/articles/2w 字，40 张手绘图带你搞定 Redis 数据结构.md",
-    "raw/articles/南北朝历史_魏晋南北朝历史时期地图_南北朝名将的故事_南北朝皇帝列表名人 - 趣历史.md",
     "005.Resources",
     "raw/assets"
   ]

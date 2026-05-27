@@ -31,7 +31,7 @@ Redis（REmote DIctionary Server）是开源的内存数据存储系统，2009 �
 | Set | 全整数：intset；否则：hashtable |
 | Sorted Set | 小数据：listpack；大数据：skiplist + hashtable |
 
-详见 [[wiki/concepts/Redis内部数据结构|Redis 内部数据结构]]。
+详见 [[wiki/sources/redis-数据结构-图解|图解 Redis 数据结构]]。
 
 ## 部署模式
 | 模式 | 用途 |

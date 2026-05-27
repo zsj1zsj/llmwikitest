@@ -8,6 +8,20 @@ Operations: `ingest` | `query` | `lint` | `init`
 
 ---
 
+## [2026-05-27] lint | 断链修复
+
+- 修复：`concepts/Redis.md` 第34行：`[[wiki/concepts/Redis内部数据结构]]` → `[[wiki/sources/redis-数据结构-图解|图解 Redis 数据结构]]`（目标页不存在，改指向已入库的source页）
+- 无孤立页面，无缺失index条目，无其他断链
+
+## [2026-05-27] ingest | 风云南北朝：箫梁（安州牧视频字幕）
+
+- 新建来源页：`wiki/sources/风云南北朝-箫梁.md`（萧梁502–557全史，10集字幕，11场战役，90条地名对照）
+- 新建实体页：`wiki/entities/萧衍.md`（梁武帝，在位48年，前期治世后期沉迷佛教，86岁饿死台城）
+- 新建实体页：`wiki/entities/侯景.md`（东魏叛将，台城之乱祸首，兵败被杀分食）
+- 更新：`wiki/entities/陈霸先.md`（补充箫梁来源、补入萧衍/侯景交叉链接）
+- 更新：`wiki/index.md`（+3条 source/entity）
+- 跳过：无
+
 ## [2026-05-27] ingest | 杨惠之考（西域文明的发现）
 
 - 新建来源页：`wiki/sources/杨惠之考.md`

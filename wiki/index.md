@@ -111,6 +111,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/redis-mysql-consistency|解决 Redis 与 MySQL 数据一致性问题]] — Cache-Aside最佳实践、延迟双删、MQ重试、Canal binlog方案；CAP最终一致性结论
 - [[wiki/sources/redis-分布式锁|Redis 分布式锁（图解史上最全）]] — 悲观/乐观DB锁、ZooKeeper锁、Redis SETNX/Redisson WatchDog/RedLock算法
 - [[wiki/sources/杨惠之考|杨惠之考（西域文明的发现）]] — 盛唐"塑圣"杨惠之文献考证，首创塑壁技法，作品实物千年不存，以敦煌/吐鲁番考古推测原貌
+- [[wiki/sources/风云南北朝-箫梁|风云南北朝：箫梁]] — 萧梁502–557年全史：钟离之战、白袍北伐、侯景之乱、陈霸先建陈，含11场战役与90条地名对照
 
 ## Concepts
 *Topic and concept pages.*
@@ -213,6 +214,8 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/颜师伯|颜师伯]] — 颜竣族兄，孝武帝宠信第一，顾命掌尚书，465年与刘义恭柳元景同日被杀
 - [[wiki/entities/崔宏|崔宏]] — 建议拓跋珪以"魏"为国号，北魏制度设计者（官制/律令/朝仪），崔浩之父
 - [[wiki/entities/杨惠之|杨惠之]] — 盛唐"塑圣"，与吴道子齐名，弃画从塑，首创塑壁技法，著《塑诀》已失传
+- [[wiki/entities/萧衍|萧衍（梁武帝）]] — 南梁开国与亡国之君，在位48年，前期治世后期沉迷佛教，86岁饿死台城
+- [[wiki/entities/侯景|侯景]] — 东魏叛将以河南十三州降梁后叛乱，围困台城饿死萧衍，后兵败被杀分食
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
