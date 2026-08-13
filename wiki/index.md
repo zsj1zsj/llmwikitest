@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-05-27
+updated: 2026-08-13
 ---
 
 # Wiki Index
@@ -125,6 +125,12 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/china-public-opinion-taiwan|中国民意：对美台态度硬化]] — 卡特中心6500人调查：反对武力统一从50%降至38%，视美国为安全威胁达75%
 - [[wiki/sources/skilluse-ai-agent-skills|SkillUse：AI Agent 技能管理]] — 基于 GitHub 的 AI Agent 技能注册中心，安装后立即生效
 - [[wiki/sources/china-property-rotten-tail|中国房地产泡沫的"烂尾"]] — 约2000万套预售未完工房产，涉及17万亿元家庭财富
+- [[wiki/sources/酒文化历史集粹|酒文化历史集粹]] — 张发财历史饮酒轶事合集；呈现豪饮、醉态、酒局社交与权力场
+- [[wiki/sources/八王之乱|八王之乱]] — 291—306年西晋宗室政变与内战；中央崩解、五胡十六国和东晋南渡的关键转折
+- [[wiki/sources/晋书-卷004-惠帝纪摘录|《晋书》卷四：惠帝纪摘录]] — 291—306年帝纪、诏令、灾荒与地方起事的一手史料摘录
+- [[wiki/sources/晋书-卷059-八王传摘录|《晋书》卷五十九：八王传摘录]] — 八王合传及宗室藩屏制度的史论与人物材料
+- [[wiki/sources/资治通鉴-卷082至086-八王之乱摘录|《资治通鉴》卷八十二至八十六摘录]] — 按年重建政变、战争、流民与地方势力扩张
+- [[wiki/sources/八王之乱现代研究书目与论点|八王之乱现代研究书目与论点]] — 西晋崩解、十六国和东晋南渡的现代研究线索
 
 ## Concepts
 *Topic and concept pages.*
@@ -143,6 +149,8 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/concepts/缓存一致性|缓存一致性]] — Cache-Aside/Read-Through/Write-Through/Write-Behind四策略；延迟双删；CAP最终一致性
 - [[wiki/concepts/分布式锁|分布式锁]] — 跨JVM互斥机制；Redis SETNX、Redisson WatchDog自动续期、RedLock多节点算法
 - [[wiki/sources/openclaw-china-ai-craze|OpenClaw：中国 AI 热潮与监管困境]] — 2026年3月中国AI Agent热潮与监管收紧事件，折射"快跑vs安全"治理困境
+- [[wiki/concepts/酒文化轶事|酒文化轶事]] — 史传和笔记中以饮酒表现人物性格、社交关系、权力场和失控风险的叙事模式
+- [[wiki/concepts/八王之乱|八王之乱]] — 西晋宗室军权制度失控后形成的多轮政变与内战
 
 ## Entities
 *People, organizations, products, projects.*
@@ -230,6 +238,14 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/杨惠之|杨惠之]] — 盛唐"塑圣"，与吴道子齐名，弃画从塑，首创塑壁技法，著《塑诀》已失传
 - [[wiki/entities/萧衍|萧衍（梁武帝）]] — 南梁开国与亡国之君，在位48年，前期治世后期沉迷佛教，86岁饿死台城
 - [[wiki/entities/侯景|侯景]] — 东魏叛将以河南十三州降梁后叛乱，围困台城饿死萧衍，后兵败被杀分食
+- [[wiki/entities/司马亮|司马亮]] — 汝南王，杨骏死后短暂辅政，291年为司马玮所杀
+- [[wiki/entities/司马玮|司马玮]] — 楚王，诛杀司马亮和卫瓘后被贾后反制处死
+- [[wiki/entities/司马伦|司马伦]] — 赵王，300年废贾后、301年篡位，后被诸王讨杀
+- [[wiki/entities/司马冏|司马冏]] — 齐王，讨伐司马伦后掌政，303年败亡
+- [[wiki/entities/司马乂|司马乂]] — 长沙王，洛阳守军主将，击败司马冏后被司马越交张方处死
+- [[wiki/entities/司马颖|司马颖]] — 成都王，邺城军事集团首领，曾挟持晋惠帝
+- [[wiki/entities/司马颙|司马颙]] — 河间王，长安军事集团首领，挟惠帝西迁后败亡
+- [[wiki/entities/司马越|司马越]] — 东海王，起兵迎惠帝东归，306年成为西晋实际掌权者
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
@@ -240,3 +256,4 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/analyses/刘义隆时代|刘义隆时代：盛世、战争与溃败]] — 元嘉之治、主相之争、三次北伐、弑父之祸的完整叙事
 - [[wiki/analyses/刘彧与刘昱时代|刘彧与刘昱时代（465—479）：权力瘫痪的十四年]] — 义嘉之难、五州沦陷、顾命瓦解、萧道成崛起，宋齐禅代全程叙事
 - [[wiki/analyses/宋孝武帝刘骏|宋孝武帝刘骏：南朝的强人与其阴影]] — 集权改革、寒人掌机要、殷淑仪悼亡、顾命遗产，矛盾人物全传
+- [[wiki/analyses/八王之乱：制度失控与西晋崩解|八王之乱：制度失控与西晋崩解]] — 从宗室军政化、宫廷合法性竞争、地方军镇化解释西晋崩溃及其与十六国、东晋的连接
