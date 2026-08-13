@@ -131,6 +131,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/晋书-卷059-八王传摘录|《晋书》卷五十九：八王传摘录]] — 八王合传及宗室藩屏制度的史论与人物材料
 - [[wiki/sources/资治通鉴-卷082至086-八王之乱摘录|《资治通鉴》卷八十二至八十六摘录]] — 按年重建政变、战争、流民与地方势力扩张
 - [[wiki/sources/八王之乱现代研究书目与论点|八王之乱现代研究书目与论点]] — 西晋崩解、十六国和东晋南渡的现代研究线索
+- [[wiki/sources/晋书-宗室后妃世系摘录|《晋书》卷三十七、三十八、三十一：宗室与后妃世系摘录]] — 八王所属支脉、司马氏九子、后妃与外戚的精确世系
 
 ## Concepts
 *Topic and concept pages.*
@@ -257,3 +258,4 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/analyses/刘彧与刘昱时代|刘彧与刘昱时代（465—479）：权力瘫痪的十四年]] — 义嘉之难、五州沦陷、顾命瓦解、萧道成崛起，宋齐禅代全程叙事
 - [[wiki/analyses/宋孝武帝刘骏|宋孝武帝刘骏：南朝的强人与其阴影]] — 集权改革、寒人掌机要、殷淑仪悼亡、顾命遗产，矛盾人物全传
 - [[wiki/analyses/八王之乱：制度失控与西晋崩解|八王之乱：制度失控与西晋崩解]] — 从宗室军政化、宫廷合法性竞争、地方军镇化解释西晋崩溃及其与十六国、东晋的连接
+- [[wiki/analyses/八王之乱人物关系|八王之乱人物关系]] — 司马氏世系、外戚后妃、权力更替与关键人物的关系图谱
