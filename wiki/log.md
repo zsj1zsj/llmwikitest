@@ -362,3 +362,18 @@ analyses/元嘉北伐梗概：第三次北伐段落补入萧思话、鲁爽、�
 
 Created vault structure: `raw/`, `wiki/`, `CLAUDE.md`, `wiki/index.md`, `wiki/log.md`, `wiki/overview.md`.
 Based on the llm-wiki pattern. Ready to ingest first source.
+
+## [2026-09-16] query | 八王之乱小抄
+
+- 新建 `wiki/analyses/八王之乱小抄.md`：八王速记表（按败亡次序＋支脉记法）、290—306 时间线速记、答题因果链、三个必答论点、易错点与考订、关键配角
+- 修订 `wiki/entities/司马亮.md`：第三子 → 第四子，从《晋书》卷三十八、五十九；补入世系来源与修订说明
+- 更新 `wiki/index.md`（Analyses 新增条目）
+- 未新增 raw 资料，全部由既有八王之乱专题页面压缩综合
+
+## [2026-09-16] query | 八王亲缘关系分类
+
+- 更新 `wiki/analyses/八王之乱人物关系.md`：第一节新增“八王按亲缘关系分类”
+  - 以惠帝为基准的世代阶梯表（祖辈 2／父辈 2／同辈 4），含支脉路径与与惠帝关系
+  - 按离皇统远近分两半：昭系内 4 人（玮、乂、颖、冏）／昭系外 4 人（亮、伦、颙、越）
+  - 注明司马冏宗法双属（本生父攸，攸过继景帝师）与“亲疏与结局相逆”为分析判断
+- 更新 `wiki/index.md` 对应条目描述；updated 日期改为 2026-09-16
