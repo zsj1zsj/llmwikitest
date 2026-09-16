@@ -377,3 +377,16 @@ Based on the llm-wiki pattern. Ready to ingest first source.
   - 按离皇统远近分两半：昭系内 4 人（玮、乂、颖、冏）／昭系外 4 人（亮、伦、颙、越）
   - 注明司马冏宗法双属（本生父攸，攸过继景帝师）与“亲疏与结局相逆”为分析判断
 - 更新 `wiki/index.md` 对应条目描述；updated 日期改为 2026-09-16
+
+## [2026-09-16] lint | 表格内 wikilink 管道符转义修复（撤销 2026-05-17 的错误修改）
+
+- 问题：Obsidian 把表格行内的 `|` 视为列分隔符，`[[页面|别名]]` 会被切成两个单元格，链接断裂
+- 正确写法是 `[[页面\|别名]]`，依据 Obsidian 官方文档表格一节 "Vertical bars in tables"
+- 溯源：2026-05-17 的 lint（`断链修复（backslash转义…）`）将 `\|` 判为“转义错误”改为 `|`，方向相反，由此引入 33 处断链
+- 本次修复 54 处，涉及 11 个文件：
+  - analyses/八王之乱人物关系 8、analyses/八王之乱小抄 8、concepts/南朝宗室相残 8、sources/刘宋20名将 8
+  - analyses/刘彧与刘昱时代 5、entities/宋孝武帝刘骏 5、concepts/四贵 4、concepts/汉武帝时代的悲剧将领 3
+  - sources/元嘉北伐 2、sources/谢灵运 2、sources/风云南北朝：刘宋 1
+- 顺带移除 analyses/八王之乱人物关系 第 67 行标题前的 Tab（Tab 缩进的 `###` 在严格解析下会变成代码块）
+- 验证：全库表格按未转义 `|` 切分后，各行列数一致，无残留未转义管道符
+- 注：`wiki/log.md` 自身的历史条目不改（append-only），本条即为更正记录
