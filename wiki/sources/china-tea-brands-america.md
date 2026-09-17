@@ -1,14 +1,14 @@
 ---
 type: source
 created: 2026-05-27
-updated: 2026-05-27
-sources: ["China's tea brands want to conquer America, Starbucks-style.md"]
+updated: 2026-09-17
+sources: ["China’s tea brands want to conquer America, Starbucks-style.md"]
 tags: [商业, 中国, 茶饮, 国际化]
 ---
 
 # 中国茶饮品牌进军美国市场
 
-**来源：** [[raw/articles/China's tea brands want to conquer America, Starbucks-style|Economist, 2026-05-14]]
+**来源：** [[raw/articles/China’s tea brands want to conquer America, Starbucks-style|Economist, 2026-05-14]]
 
 ## 核心论点
 

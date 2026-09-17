@@ -1,14 +1,14 @@
 ---
 type: source
 created: 2026-05-27
-updated: 2026-05-27
-sources: [America wakes up to AI's dangerous power.md]
+updated: 2026-09-17
+sources: [America wakes up to AI’s dangerous power.md]
 tags: [科技/AI, 美国, AI安全, AI监管]
 ---
 
 # 美国觉醒于 AI 的危险力量
 
-**来源：** [[raw/articles/America wakes up to AI's dangerous power|Economist, 2026-04-16]]
+**来源：** [[raw/articles/America wakes up to AI’s dangerous power|Economist, 2026-04-16]]
 
 ## 核心论点
 

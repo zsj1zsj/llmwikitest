@@ -1,14 +1,14 @@
 ---
 type: source
 created: 2026-05-27
-updated: 2026-05-27
-sources: ["The rotten tail of China's property bust.md"]
+updated: 2026-09-17
+sources: ["The rotten tail of China’s property bust.md"]
 tags: [经济, 中国, 房地产, 烂尾楼]
 ---
 
 # 中国房地产泡沫的"烂尾"
 
-**来源：** [[raw/articles/The rotten tail of China's property bust|Economist, 2026-02-23]]
+**来源：** [[raw/articles/The rotten tail of China’s property bust|Economist, 2026-02-23]]
 
 ## 核心论点
 

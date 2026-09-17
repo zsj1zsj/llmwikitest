@@ -390,3 +390,11 @@ Based on the llm-wiki pattern. Ready to ingest first source.
 - 顺带移除 analyses/八王之乱人物关系 第 67 行标题前的 Tab（Tab 缩进的 `###` 在严格解析下会变成代码块）
 - 验证：全库表格按未转义 `|` 切分后，各行列数一致，无残留未转义管道符
 - 注：`wiki/log.md` 自身的历史条目不改（append-only），本条即为更正记录
+
+## [2026-09-17] lint | 修复原文路径并更正缺图误报
+
+- 修复 6 个来源页的直引号／弯引号路径不匹配：america-wakes-up-ai-power、china-nationalist-spy-thriller、china-property-rotten-tail、china-tea-brands-america、why-china-worries-ai、延年-汉朝；同步修正正文来源链接与 frontmatter 的 sources 文件名。
+- 将 sources/地图上的南北朝 的旧原文路径更正为实际存在的 `raw/articles/地图上的南北朝（14幅地图）.md`，同步更新 sources 字段。
+- 更正此前对刘义隆时代、刘彧与刘昱时代、宋孝武帝刘骏等页面的缺图判断：旧检查器错误地给 `.jpg` 路径追加 `.md`。相关图片实际存在且已纳入版本控制；本次未改动、删除或下载任何 raw 文件。
+- 校验区分带扩展名的资源、无扩展名的笔记、表格内转义别名和 basename wikilink；日志中的历史文字与代码示例不作为有效链接校验对象。
+- 更新 7 个来源页及 index 的 updated 日期；仅修复引用，不改动正文史实或论点。

@@ -1,14 +1,14 @@
 ---
 type: source
 created: 2026-05-27
-updated: 2026-05-27
-sources: ["China's nationalist spy thriller has few girls and lots of government.md"]
+updated: 2026-09-17
+sources: ["China’s nationalist spy thriller has few girls and lots of government.md"]
 tags: [文化/电影, 中国, 主旋律电影]
 ---
 
 # 中国主旋律谍战片困境
 
-**来源：** [[raw/articles/China's nationalist spy thriller has few girls and lots of government|Economist, 2026-03-12]]
+**来源：** [[raw/articles/China’s nationalist spy thriller has few girls and lots of government|Economist, 2026-03-12]]
 
 ## 核心论点
 

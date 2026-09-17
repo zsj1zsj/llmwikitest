@@ -1,14 +1,14 @@
 ---
 type: source
 created: 2026-05-27
-updated: 2026-05-27
-sources: [Why China's government worries about AI.md]
+updated: 2026-09-17
+sources: [Why China’s government worries about AI.md]
 tags: [科技/AI, 中国, AI监管, AI安全, 就业]
 ---
 
 # 中国政府为何担忧 AI
 
-**来源：** [[raw/articles/Why China's government worries about AI|Economist, 2026-04-16]]
+**来源：** [[raw/articles/Why China’s government worries about AI|Economist, 2026-04-16]]
 
 ## 核心论点
 
