@@ -133,6 +133,9 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/sources/资治通鉴-卷082至086-八王之乱摘录|《资治通鉴》卷八十二至八十六摘录]] — 按年重建政变、战争、流民与地方势力扩张
 - [[wiki/sources/八王之乱现代研究书目与论点|八王之乱现代研究书目与论点]] — 西晋崩解、十六国和东晋南渡的现代研究线索
 - [[wiki/sources/晋书-宗室后妃世系摘录|《晋书》卷三十七、三十八、三十一：宗室与后妃世系摘录]] — 八王所属支脉、司马氏九子、后妃与外戚的精确世系
+- [[wiki/sources/汉光武帝生平编年|汉光武帝生平编年]] — 刘秀（前5—57）完整生平编年与年表，含昆阳兵力、封禅年份等辨正
+- [[wiki/sources/汉光武帝制度与治国|汉光武帝制度与治国]] — 退功臣进文吏、事归台阁、度田、柔道治国、谶纬、边疆与户口，逐条附卷次
+- [[wiki/sources/汉光武帝史料与评价|汉光武帝史料与评价]] — 史料清单与A—E可信度分级；历代评价（范晔/仲长统/曹植/诸葛亮/唐太宗/司马光/王夫之/顾炎武/赵翼）逐条核到篇卷，并逐一证伪「毛泽东三个最」等流行误说
 
 ## Concepts
 *Topic and concept pages.*
@@ -248,6 +251,7 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/司马颖|司马颖]] — 成都王，邺城军事集团首领，曾挟持晋惠帝
 - [[wiki/entities/司马颙|司马颙]] — 河间王，长安军事集团首领，挟惠帝西迁后败亡
 - [[wiki/entities/司马越|司马越]] — 东海王，起兵迎惠帝东归，306年成为西晋实际掌权者
+- [[wiki/entities/汉光武帝刘秀|汉光武帝刘秀]] — 东汉开国皇帝，以「中兴」之名行「重建」之实：退功臣进文吏、事归台阁、柔道治国
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
