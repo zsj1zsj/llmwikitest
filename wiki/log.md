@@ -398,3 +398,12 @@ Based on the llm-wiki pattern. Ready to ingest first source.
 - 更正此前对刘义隆时代、刘彧与刘昱时代、宋孝武帝刘骏等页面的缺图判断：旧检查器错误地给 `.jpg` 路径追加 `.md`。相关图片实际存在且已纳入版本控制；本次未改动、删除或下载任何 raw 文件。
 - 校验区分带扩展名的资源、无扩展名的笔记、表格内转义别名和 basename wikilink；日志中的历史文字与代码示例不作为有效链接校验对象。
 - 更新 7 个来源页及 index 的 updated 日期；仅修复引用，不改动正文史实或论点。
+
+## [2026-09-17] cleanup | 根目录散落图片归位 raw/assets/
+
+- 16 个散落在仓库根目录的媒体文件全部移入 `raw/assets/`：13 个 PNG、2 个 JPG、1 个 GIF，符合 CLAUDE.md／AGENTS.md 的媒体存放约定
+- 同步更新 2 篇 raw 原文的 16 处 `![[...]]` 嵌入路径：
+  - `raw/articles/美团 EvoCUA：基于经验进化学习刷新计算机操作智能体SOTA.md`（13 PNG + 1 GIF）
+  - `raw/articles/八王之乱 - 维基百科，自由的百科全书.md`（2 JPG）
+- 验证：移动前后各文件 sha256 一致（内容未变）；全库 `raw/assets` 图片嵌入均可解析；根目录已无散落媒体文件
+- 说明：按用户明确要求改动了 `raw/` 下的嵌入路径——仅改路径，未改正文内容；移动前已预检无同名冲突

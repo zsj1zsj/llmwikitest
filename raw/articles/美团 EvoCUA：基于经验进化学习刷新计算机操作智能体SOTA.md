@@ -55,24 +55,24 @@ description: "美团技术团队推出EvoCUA，一个基于经验进化学习范
 
 面对上述挑战，我们正式推出了 **EvoCUA** (`Evolutionary Computer Use Agent`)，一种原生的计算机操作智能体模型。EvoCUA 致力于构建一种进化范式，让模型在大规模沙盒环境中， **像生物进化一样，通过不断的试错，反思和修正，积累海量成功和失败经验，进而不断提升自身能力** 。
 
-![[6c1e2bdc8b1e54277d5337715010a939_MD5.png]]
+![[raw/assets/6c1e2bdc8b1e54277d5337715010a939_MD5.png]]
 
 > [!success] 性能突破
 > EvoCUA-32B 在 `Computer Use` 权威的在线评测基准 `OSWorld` 上取得了 **56.7%** 的成功率，刷新了开源模型的 SOTA 记录！
 
 通过这一范式，EvoCUA-32B 在 Computer Use 权威的在线评测基准 OSWorld 上取得了 56.7% 的成功率，刷新了开源模型的 SOTA 记录，以更少的参数量和推理步数超过此前的开源 SOTA OpenCUA-72B （45.0%），以及领先的闭源模型 UI-TARS-2 （53.1%）。此外，实验证实该方案的通用性，在不同基座（如 Qwen3-VL、OpenCUA）及多个尺寸（8B 至 72B）的模型上均能显著提升 Computer Use 能力 。
 
-![[59ebb7900e7fa95c5505072152c028aa_MD5.png]]
+![[raw/assets/59ebb7900e7fa95c5505072152c028aa_MD5.png]]
 
 模型上网查询如何配置 rbenv 开发环境并帮用户安装的示例：
 
-![[694b635aefffd5ed55d7ac8ef51329be_MD5.gif]]
+![[raw/assets/694b635aefffd5ed55d7ac8ef51329be_MD5.gif]]
 
 ## 02 核心技术架构
 
 EvoCUA 的核心在于构建“交互-反馈-修正”的闭环。我们针对数据、环境、算法三个维度构建了自维持的进化架构： **可验证数据合成引擎** 负责生产高质量任务， **高并发交互基建** 支持海量轨迹合成， **基于经验的迭代算法** 提供模型进化的关键路径。
 
-![[6d8771316ab5250ad971b2fed238206d_MD5.png]]
+![[raw/assets/6d8771316ab5250ad971b2fed238206d_MD5.png]]
 
 ### 2.1 可验证数据合成引擎
 
@@ -90,7 +90,7 @@ EvoCUA 数据层的核心任务是构建一个自动化流水线，能够合成�
 
 整体数据合成框架如下：
 
-![[2706d1c96d7b4e50386e3a4b8a75a2c5_MD5.png]]
+![[raw/assets/2706d1c96d7b4e50386e3a4b8a75a2c5_MD5.png]]
 
 #### 2.1.1 结构化任务空间构建
 
@@ -131,7 +131,7 @@ EvoCUA 数据层的核心任务是构建一个自动化流水线，能够合成�
 
 EvoCUA 的进化范式要求 Agent 进行大规模的探索来合成经验轨迹。我们面临的挑战是工业级的：如何在一个集群中稳定调度 100,000+ 个每日活跃沙盒，处理百万级的分钟交互请求，同时保证每个环境的严格隔离与毫秒级响应。为此，我们构建了一套统一的环境沙盒平台，在调度吞吐与环境保真度两个维度做了大量优化。
 
-![[c4fb18c00c162b6e80e8898307ae23fb_MD5.png]]
+![[raw/assets/c4fb18c00c162b6e80e8898307ae23fb_MD5.png]]
 
 #### 2.2.1 微服务化编排
 
@@ -231,7 +231,7 @@ def dpo_loss(policy_chosen_logps, policy_rejected_logps, reference_chosen_logps,
     return loss
 ```
 
-![[4eec06d5ef4b983fb904e28d67ee5a3b_MD5.png]]
+![[raw/assets/4eec06d5ef4b983fb904e28d67ee5a3b_MD5.png]]
 
 **关键分岔点挖掘** ：在长达数十步甚至上百步的 GUI 操作中，任务失败往往具有滞后性。模型可能在第 5 步做出了一个微小的错误决策（如选错了筛选条件），但直到第 30 步才因为找不到目标文件而报错。为了精准定位错误，EvoCUA 提出了一种基于参考导向的归因机制——关键分岔点挖掘。 我们利用同一 Query 下的“成功轨迹”与“失败轨迹”进行对齐分析。系统会自动定位到状态一致但动作开始偏离的那一帧，记为关键分岔点。
 
@@ -259,7 +259,7 @@ def dpo_loss(policy_chosen_logps, policy_rejected_logps, reference_chosen_logps,
 - **开源 SOTA** ：我们的主力模型 EvoCUA-32B（基于 Qwen3-VL-32B-Thinking 后训练）达到了 56.7% 的成功率。这一成绩大幅领先此前的开源 SOTA（OpenCUA-72B, 45.0%）。值得注意的是，EvoCUA-32B 超越了闭源强基线 UI-TARS-2-2509 (53.1%)。在严格限制 50 步 推理预算的同等条件下，我们与行业顶尖的 Claude-4.5-Sonnet (58.1%) 差距缩小至仅 1.4%。
 - **小参数大潜力** ：EvoCUA-8B 同样表现惊艳，以 46.1% 的成功率击败了 OpenCUA-72B。与同样基于 Qwen3-VL-8B 训练的 Step-GUI-8B (40.2%) 相比，EvoCUA-8B 取得了 +5.9% 的显著优势。
 
-![[f604db43f94c00b63384ce04aaa2de0d_MD5.png]]
+![[raw/assets/f604db43f94c00b63384ce04aaa2de0d_MD5.png]]
 
 ### 3.2 消融实验
 
@@ -271,7 +271,7 @@ def dpo_loss(policy_chosen_logps, policy_rejected_logps, reference_chosen_logps,
 - Offline DPO（+3.21%）：针对关键分岔点的纠错训练，显著提升了模型鲁棒性。
 - 迭代训练（+1.90%）：再进行一轮迭代训练，性能持续增长。
 
-![[39779ba9340dddeb8644e4d986c9a6f7_MD5.png]]
+![[raw/assets/39779ba9340dddeb8644e4d986c9a6f7_MD5.png]]
 
 ### 3.3 Scaling 分析
 
@@ -281,7 +281,7 @@ def dpo_loss(policy_chosen_logps, policy_rejected_logps, reference_chosen_logps,
 - **Pass@k** ：随着采样次数 k 的增加，EvoCUA 始终保持对初始化模型的显著优势。这表明优化后的 Policy 具有更高的天花板。
 - **数据规模** ：在 RFT 阶段，我们将数据量从 20k 扩展到 1M，观察到了持续的性能爬坡。
 
-![[5de0a30ead3772bd3368cc18c2119637_MD5.png]]
+![[raw/assets/5de0a30ead3772bd3368cc18c2119637_MD5.png]]
 
 ### 3.4 轨迹可视化分析
 
@@ -289,19 +289,19 @@ def dpo_loss(policy_chosen_logps, policy_rejected_logps, reference_chosen_logps,
 
 **Step 1** ：目标澄清，智能体显式复述并拆解了用户指令。
 
-![[995ff9871db8eea0024746d2fdc860a6_MD5.png]]
+![[raw/assets/995ff9871db8eea0024746d2fdc860a6_MD5.png]]
 
 **Step2** ：智能体使用 excel 公式原子能力 Max 操作。
 
-![[b34ba08ed634700eaba8ddfd9a0386a9_MD5.png]]
+![[raw/assets/b34ba08ed634700eaba8ddfd9a0386a9_MD5.png]]
 
 **Step 9** ：有状态鼠标交互，专业软件操作常涉及“按住并点击”等组合动作。智能体执行“Shift+点击”操作以选中 G3 到 G11 的数据范围。
 
-![[1540383f835a299c2c33e402f0a6616b_MD5.png]]
+![[raw/assets/1540383f835a299c2c33e402f0a6616b_MD5.png]]
 
 **Step 15** ：审慎终止判断，智能体没有盲目停止，而是先生成视觉证据：“我看到 Max 列已计算完毕…”。只有在视觉核验结果符合初始指令后，它才发出 `terminate` 信号，确保任务完成。
 
-![[c3663178065e98ac52e56a241b43a811_MD5.png]]
+![[raw/assets/c3663178065e98ac52e56a241b43a811_MD5.png]]
 
 ## 04 总结展望
 
