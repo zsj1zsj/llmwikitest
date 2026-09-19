@@ -254,6 +254,14 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/汉光武帝刘秀|汉光武帝刘秀]] — 东汉开国皇帝，以「中兴」之名行「重建」之实：退功臣进文吏、事归台阁、柔道治国
 - [[wiki/entities/邓禹|邓禹]] — 云台二十八将之首，光武长安同学，二十四岁拜大司徒，功成「常欲远名势」善终
 - [[wiki/entities/冯异|冯异]] — 「大树将军」，不伐品格的极致；破赤眉、定三辅，征西功若丘山而薨于军
+- [[wiki/entities/吴汉|吴汉]] — 云台第三，大司马、灭蜀主帅；「差强人意」「斤斤谨质」，谥忠侯
+- [[wiki/entities/寇恂|寇恂]] — 河内太守，「文武备足」，光武比之萧何；与贾复的「将相和」，谥威侯
+- [[wiki/entities/耿弇|耿弇]] — 幽州突骑定河北、独力平齐地，「有志者事竟成」典出；耿氏「遂与汉兴衰」终至族灭
+- [[wiki/entities/贾复|贾复]] — 勇将「身被十二创」而「未尝有言」；与邓禹「并剽甲兵」主动交权，谥刚侯
+- [[wiki/entities/岑彭|岑彭]] — 与冯异并称「建方面之号」者；劝降朱鲔、伐蜀神速，营地名「彭亡」而遇刺
+- [[wiki/entities/祭遵|祭遵]] — 「克己奉公」典出；格杀舍中儿而光武「安得忧国奉公之臣如祭征虏者乎」
+- [[wiki/entities/王霸|王霸]] — 「疾风知劲草」典出；滹沱河「冰坚可度」之谎，实任上谷太守二十余年
+- [[wiki/entities/耿纯|耿纯]] — 巨鹿大姓，焚庐舍「绝其反顾之望」，率宗族二千余人从龙，两任东郡太守
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
