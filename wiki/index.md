@@ -252,6 +252,8 @@ Master catalog of all wiki pages. Updated on every ingest, query-filing, or lint
 - [[wiki/entities/司马颙|司马颙]] — 河间王，长安军事集团首领，挟惠帝西迁后败亡
 - [[wiki/entities/司马越|司马越]] — 东海王，起兵迎惠帝东归，306年成为西晋实际掌权者
 - [[wiki/entities/汉光武帝刘秀|汉光武帝刘秀]] — 东汉开国皇帝，以「中兴」之名行「重建」之实：退功臣进文吏、事归台阁、柔道治国
+- [[wiki/entities/邓禹|邓禹]] — 云台二十八将之首，光武长安同学，二十四岁拜大司徒，功成「常欲远名势」善终
+- [[wiki/entities/冯异|冯异]] — 「大树将军」，不伐品格的极致；破赤眉、定三辅，征西功若丘山而薨于军
 
 ## Analyses
 *Comparisons, syntheses, and filed query answers.*
